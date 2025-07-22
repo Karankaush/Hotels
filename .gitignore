@@ -1,7 +1,6 @@
 # Ignore node_modules directory
 node_modules/
 .env
-package.json
 
 # Other entries...
 
